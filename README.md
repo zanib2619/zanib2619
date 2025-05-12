@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zanib2619
-- 🌱 I’m currently learning Python and c++ 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me zanibkhan512131@gmail.com
 
 <!---
